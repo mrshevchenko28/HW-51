@@ -5,4 +5,4 @@
 4) I add Modal widow for my IdleTimer component with 2 different state buttons to show active state of User
 5) I made 6 different toast notifications with ToastifyComponent and added diferent props to them
 6) I added a few icons and made IconComponent to demonstrate different icons from
-7) I use Vercel to deploy my app:
+7) I use Vercel to deploy my app: https://hw-51-coral.vercel.app/
